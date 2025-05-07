@@ -1,0 +1,946 @@
+{
+  "1 - How can a unfulfilled court judgement against a debtor company be enforced?": {
+    "sent_result": [
+      {
+        "query": "I recently invested a significant amount of money in a local startup company. Things were going well at first, but as time went on, the company started facing financial difficulties. Eventually, they were unable to pay back the borrowed funds. Despite my numerous attempts to communicate with them and settle the matter amicably, the company has been avoiding me and refusing to fulfill their repayment obligations. Now, I find myself wondering what options are available to enforce the unfulfilled court judgment against the debtor company.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Things you need to note before presenting a winding-up petition "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Under sections 177 & 178 of the Companies (Winding Up and Miscellaneous Provisions) Ordinance  (Cap.32), it is a ground for petition if the company is unable to pay a debt of $10,000 or above (or an amount prescribed by the Financial Secretary of the HKSAR Government in special circumstances)."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "If it is anticipated that there will be a genuine dispute over the debt (the company is likely to argue, or just denying its liability for the debt), the creditor may sue the company for a judgment instead of presenting a winding-up petition. In other words, the creditor may institute legal proceedings against the company in order to obtain a court judgment to ascertain the company's liability for the debt. If the company still fails to comply with a court judgement to repay the debt, the creditor may then proceed to enforce the judgement by filing a winding-up petition (or enforce it through other legal proceedings)."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      2
+    ]
+  },
+  "2 - Is a credit provider free to obtain my credit report whenever it wants?": {
+    "sent_result": [
+      {
+        "query": " I recently applied for a credit card and was approved. A few weeks later, I received a call from a suspicious number claiming to be from my credit card company and asking for my personal information. As someone who knows nothing about legal knowledge, I panicked and frantically searched for answers online. I stumbled upon the question of whether a credit provider is free to obtain my credit report whenever it wants. Unaware of the answer, I felt uncertain about how my personal information could be accessed and misused without my consent. Seeking clarity, I decided to actively educate myself on the topic before engaging with any unknown callers.",
+        "candidate_scope": [
+          {
+            "score": 1,
+            "candidate_scope": "Can credit providers obtain a credit report about me at anytime they want? "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "No. A credit provider can only obtain a credit report about you in limited situations."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The Code allows a credit provider to obtain your credit report when a creditprovider: considers your application for a new credit facility (e.g. a new loan); conducts a credit review of your existing credit facilities; or conducts a renewal of those existing credit facilities when due."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "(Note: The word \"review\" means consideration by your credit provider of an increase or decrease in the credit amount.)"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Your credit provider may also obtain your credit report when you fail to repay an amount that is overdue so that it can monitor your indebtedness."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "However, your credit provider is not allowed to access your credit data for other purposes such as using the data for direct marketing purposes."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      0
+    ]
+  },
+  "3 - Where is the compulsory winding-up records kept? ": {
+    "sent_result": [
+      {
+        "query": " As a small business owner, I recently discovered that one of my suppliers abruptly shut down without fulfilling their outstanding orders. Worried about the financial impact this could have on my own business, I decided to investigate further. While researching online, I came across the term \"compulsory winding-up records.\" Unsure of what this meant, I asked a colleague who had some legal knowledge, but they were unable to provide me with a clear answer. Feeling concerned and determined to find the necessary information, I reached out to a local business association or sought legal advice to obtain guidance on where the compulsory winding-up records might be kept and how they could potentially affect my situation.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Search of winding-up records "
+          },
+          {
+            "score": 1,
+            "candidate_scope": "It is my intention to present a winding-up petition against a company. How can I find out if there is already a petition presented against this company?. A request to search the compulsory company winding-up records is available at the Official Receiver’s Office at a search fee of $80. The relevant application form is available at the website of the Official Receiver’s Office. You can contact the staff of the Official Receiver’s Office at 28672448, or e-mail at oroadmin@oro.gov.hk for more details. You may also conduct a search of compulsory winding-up proceedings via the Internet ."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Please note that the Official Receiver’s Office does not keep records of companies being wound-up voluntarily (not wound-up by court order) You must contact the Companies Registry for information related to the voluntary winding-up of a particular company."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      1
+    ]
+  },
+  "4 - What is an Individual Voluntary Arrangement (IVA)?": {
+    "sent_result": [
+      {
+        "query": " I recently found myself struggling with overwhelming debt due to a series of unexpected financial setbacks. As the bills piled up, I felt the weight of the situation becoming unbearable. With constant phone calls from creditors and the fear of legal action looming over me, I decided it was time to seek professional help. A friend suggested I speak with a financial advisor who specialized in debt management. Nervously, I scheduled a meeting and walked into their office, feeling completely clueless about legal matters. Little did I know that this meeting would introduce me to the concept of an Individual Voluntary Arrangement (IVA), a potential solution to my financial crisis. As the financial advisor explained the IVA process, I began to comprehend the potential benefits and consequences it entailed, realizing that it could be a viable option to regain control over my debt situation.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "WHAT ARE THE ADVANTAGES OF AN IVA?(WITH A BRIEF PROCEDURAL GUIDE FOR APPLYING FOR AN IVA). You are recommended to consult a lawyer if you want to apply for an IVA."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "The advantages of IVA. An IVA is a voluntary agreement with your creditors. As such, there is far less stigma with an IVA agreement compared with bankruptcy. However, a record will still be kept by the Official Receiver's Office and is open to public search. If you are made bankrupt, then all your assets will be vested in your Trustee. It is very likely that the Trustee will sell your major assets, in order to repay your debts. Unlike bankruptcy, however, you do not necessarily have to sell your home and other major assets under IVA agreements."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "If you set up an IVA, your professional or employment status is less likely to be affected. By contrast, your professional career may be in jeopardy, if you are a bankrupt. In addition, you can continue to serve as a director in a company or run your own business, neither of which is allowed in bankruptcy. There is a better chance for you to obtain credit after you have repaid your debts pursuant to an IVA agreement. Legal proceedings for bankruptcy can involve considerable time and cost. Creditors may expect better repayment from a debtor."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The disadvantages of IVA. The period of an IVA is usually longer than that of bankruptcy (assuming the bankrupt co-operates fully with the Official Receiver/Trustee). If there is no realistic prospect of an IVA, then you may still have to face a bankruptcy lawsuit (the relevant consequences are listed in the previous section)."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "A brief summary of the procedures for applying for an IVA. The debtor must propose a person to act as the Nominee to implement and monitor the IVA. The debtor must submit a proposal to the Nominee. The debtor can appoint a lawyer to prepare the documentation. The debtor must also submit a Statement of Affairs to the Nominee. Before the approval of the proposal by the creditors, the debtor should apply to the Court for an Interim Order (for a 14-day-period during which no bankruptcy or other legal proceedings can be taken or continued against the debtor without the permission of the Court). According to the Bankruptcy (Fees & Percentages) Order ( Cap. 6C), a court fee is charged and computed by the following rates on the gross amount of the proposal:"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "a. $15 on every $1,000 or fraction of $1,000 up to $100,000 of the repayment amount; and  b. $7.50 on every $1,000 or fraction of $1,000 beyond $100,000 of the repayment amount. Example: If the gross amount of repayment stated in the proposal is $150,000, then the court fee would be:  $[15 x (100,000÷1,000)] + $[7.5 x (50,000÷1,000)] = $1,875. The Nominee must submit a report concerning the debtor's proposal to the Court, stating whether a creditors' meeting should be held. If the Court is satisfied that a meeting should be held, then it can extend the Interim Order so that the proposal can be considered by the creditors. During the creditors' meeting, there will be negotiations amongst the creditors and the debtor on the repayment matters. Approval or modification of the proposal requires the agreement of the majority of the creditors who totally hold in excess of 75% of the gross amount of the debts owed and who present in person or by proxy and vote on the resolution. Any modification of the proposal also requires the debtor's consent."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "If the proposal is approved, then it will bind all the relevant creditors whether or not they were present at the meeting. The Chairman of the meeting must submit a report to the Court within 7 days of the meeting. Within 28 days of submitting the report, the debtor, creditors, Nominee, Trustee or the Official Receiver (in case the IVA applicant is a bankrupt) may apply to the Court to challenge the decision of the meeting."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The role of the Court. Section 20K of the Bankruptcy Ordinance provides that the nominee may apply to the Court for directions in relation to any particular matter arising under the voluntary arrangement. The whole provision applies only to implementation and supervision of approved voluntary arrangement."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The role of the Court is limited to giving directions on matters relating to implementation and supervision, although no provision is specifically made as to the nature of the order that the court may make. It seems that the section is limited to enabling the nominee to seek assistance of the Court for a situation which is not envisaged by the proposal itself and which, for whatever reason, cannot be determined by the nominee exercising his own professional judgment."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      1
+    ]
+  },
+  "5 - What should the donor do when he/she no longer trusts the attorney who keeps the enduring power of attorney after it is executed?": {
+    "sent_result": [
+      {
+        "query": " I recently executed an enduring power of attorney, granting my attorney the authority to make decisions on my behalf if I become unable to do so in the future. However, over time, I have noticed some questionable behavior from my attorney and have started to lose trust in their judgment and actions. I find myself feeling uneasy about the thought of them having full control over my affairs if I ever become incapacitated. I now must figure out what steps I can take to address this situation and ensure the ongoing security of my finances and well-being.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "The attorney? "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The attorney apparently would be the right person to keep custody of the EPA. After all, the attorney should be a person who is close to the donor and trusted by the donor. The attorney will also be the person responsible for exercising the authority as specified in the EPA. It seems that the attorney appears to be the appropriate person for keeping custody of the EPA."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Despite the above ideal scenario, we have to face the sad reality that people can change; after the execution of the EPA, the attorney may change to an extent that the donor loses all trust and confidence in the attorney. In such circumstances, if the donor wants to get back the EPA, the attorney may refuse to do so. The donor will then have to resort to revoking the EPA and perhaps having to make a new one by appointing another attorney. Therefore, a donor should act promptly to revoke an EPA if it is in the custody of an attorney whom the donor no longer trusts."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      2
+    ]
+  },
+  "6 - What is the definition of a marriage according to this context?": {
+    "sent_result": [
+      {
+        "query": " \n\nI recently attended a wedding ceremony and witnessed two people exchange vows and rings in front of their family and friends. As an outsider without any legal knowledge, I knew that this was a meaningful commitment of love between the couple. However, little did I know, the definition of marriage in this context extended beyond the emotional and social aspects. It encompassed legal implications, rights, and responsibilities, which I would later come to understand as I delved deeper into learning about family law.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "C. Validity of Marriage"
+          },
+          {
+            "score": 1,
+            "candidate_scope": "A marriage means a voluntary union for life of one man with one woman to the exclusion of all others. All marriages celebrated under the  Marriage Ordinance  ( Cap. 181 ) shall be good and valid in law to all intents and purposes. A marriage may be null and void on a number of grounds, for example, "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "the married parties are of kindred or affinity; the marriage is not celebrated in a marriage registry by the Registrar of Marriages, by a competent minister in a licensed place of worship or by a civil celebrant; the marriage is celebrated under a false name; noCertificate of Registrarof Marriages has been issued and both parties knowingly and wilfully acquiesce in its celebration in such circumstances; the marriage is not between a male and a female; the parties are already married at the time of marriage; or at the time of its celebration any party is under 16 years of age."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "For marriage validly and duly celebrated in foreign country between two persons domiciled in that country, such marriage would be accepted as valid in Hong Kong provided that such marriage would be valid if celebrated in Hong Kong."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      1
+    ]
+  },
+  "7 - What does a registered design protect?": {
+    "sent_result": [
+      {
+        "query": " I recently started my own small business manufacturing customized phone cases. I have been creating unique and eye-catching designs for these cases, and my customers absolutely love them. However, recently I noticed that a competitor has started selling phone cases that look almost identical to mine. I am concerned about protecting my designs and ensuring that my hard work and creativity are not taken advantage of. I am not familiar with legal knowledge, but I know I need to take some action to safeguard my designs.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Registered Designs "
+          },
+          {
+            "score": 1,
+            "candidate_scope": "A registered design is concerned with the protection of theappearance of a finished product. It is a property right which gives the owner of the registered design the exclusive right to, among other things, make, import, sell, hire or offer or expose for sale or hire any article to which the design has been applied."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "As defined in section 2 of the Registered Designs Ordinance ( Cap. 522 of the Laws of Hong Kong), a \"design\" means features of shape, configuration, pattern or ornamentapplied to an article by any industrial process, being features which in the finished article appeal to the eye. A design can thus be two or three-dimensional, but it must have eye appeal. A design which is hidden in the finished article, or such that the aesthetic considerations of the finished article are not normally taken into account to a significant extent by the consumers, cannot be registered under this Ordinance."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      1
+    ]
+  },
+  "8 - How big should the mark on photocopies of ID cards be?": {
+    "sent_result": [
+      {
+        "query": "I recently went to a store to purchase a new cellphone and was asked to provide a photocopy of my ID card for identification purposes. The salesperson handed me a photocopier and asked me to make the copy myself. I had no idea about the legality involved in this process, but I noticed that the salesperson had placed a small mark on the corner of the ID card before handing it to me. I wondered if there was any specific size or requirement for this mark to ensure that the photocopy is valid and legally acceptable.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "WHAT SHOULD I BE AWARE OF BEFORE I PROVIDE MY ID CARD NUMBER OR ID CARD COPY TO OTHER PERSONS?"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The Code requires organizations or persons (the data users), before recording an ID card number, to consider alternatives that are less privacy intrusive. If you are not happy about a request to provide your ID card number, suggest to the requestor/data user alternatives that are reasonable and acceptable to you. For example, try to arrange for identification of yourself by someone else who is already known to the organization. An organization may be contravening the Code if it refuses to accept an alternative without a good explanation ."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Compared to ID card numbers, stricter limits are imposed on the collection of ID card copies because of the greater dangers they carry in relation to possible fraud or other misuse. Generally speaking, this gives you greater justification in querying a request to provide a copy of your ID card."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "The Code generally requires the data users to mark photocopies of ID cards they keep with the word \"copy\". This marking should be made across the entire image of the ID card. The only exception to this marking requirement you are likely to encounter is where the photocopy is going to be converted into some other form, e.g. microfilm."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "If you provide a photocopy of your ID card in person to a data user, you can insist that it must be marked \"copy\" in your presence."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Unless otherwise required or permitted by law, data users should ensure that an ID card number and the name of the holder are not displayed together publicly."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "One common situation in which a breach of the above requirement may occur is the publication of notices including individuals' names and ID card numbers in a newspaper (e.g. notices carrying the result of a lucky draw or a competition). Another is the display of notices containing individuals' names and ID card numbers on a notice board in places such as a school, an office, or the lobby of a residential building. A further one is the inadvertent disclosure of the names and ID card numbers of visitors to subsequent visitors to a building in a visitors' log-book."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Where you encounter a situation such as those described above, ask the organization/data user to stop displaying or disclosing those data (or else to justify the display/disclosure). An organization is likely to have contravened the Code if it cannot provide good justification."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "9 - Do I have to pay any fees to start a litigation?": {
+    "sent_result": [
+      {
+        "query": "I recently discovered that my neighbor's tree branches are dangerously hanging over into my yard. After a heavy storm, one of the branches fell and damaged my roof. I want to take legal action against my neighbor to cover the cost of repairs. However, I have no knowledge about legal matters, so I'm unsure if I have to pay any fees to start a litigation.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Can I afford the expenses? "
+          },
+          {
+            "score": 1,
+            "candidate_scope": "You will usually need to pay a fee to the court in order to start your claim. (However, if the person you are suing (the defendant) surrenders and pays you, you may recover this fee as well.)"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "If the defendant defends your claim, you may need witnesses to help tell the court what happened. You have to pay a deposit to the court for the witness expenses. You may also need to obtain a report from an expert (e.g. a doctor, mechanic or surveyor) and ask this expert to go to court to give evidence on your behalf. You will have to pay the expert's expenses and charges. (But if you win, the court may order the defendant to pay towards these.)"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "In addition, you have to bear your own expenses for going to court (for filing documents or attending hearings) and for travelling expenses and meals."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "If you engage a lawyer to represent you, you will have to pay for the legal services rendered. You may ask the court to order the defendant to reimburse you if you win your case. But usually, you will only get a portion (about 70% on average) of your lawyer's fees and expenses."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "You should also note that the court will not automatically take steps to ensure that the losing party pays the winning party. So if you win your case but the defendant does not pay, you will need to ask the court to take action to enforce your judgement , for which you will have to pay another fee."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "What will happen if you are the losing party?"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "If you are the losing party, you will normally be ordered to pay the costs (this generally means legal costs) to the winning party. It makes no difference if you are a litigant in person (without appointing a lawyer). The costs are the expenses that the winning party has had to spend on the preparation and hearing of the matter. These include the expenses for the lawyers representing the winning party (if any). The amount of these costs can be substantial, depending on the complexity of the case, the preparation work required and the length of the hearing."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      1
+    ]
+  },
+  "10 - Can a tenant object to paying rent to the new landlord? ": {
+    "sent_result": [
+      {
+        "query": " I recently moved into a new apartment and received a notice that there is a change in ownership. The new landlord takes over and starts collecting rent. Confused and with no legal knowledge, I wonder if I have the right to object to paying my rent to the new landlord.",
+        "candidate_scope": [
+          {
+            "score": 1,
+            "candidate_scope": "MY LANDLORD HAS INFORMED ME THAT THE PROPERTY I AM RENTING WAS SOLD RECENTLY. I WAS ALSO TOLD TO PAY RENT TO THE NEW LANDLORD ON THE NEXT DUE DATE. CAN I OBJECT? WILL MY INTERESTS UNDER THE \"OLD\" TENANCY BE PROTECTED?"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The landlord, as the owner of the property, is entitled to sell the property. If there is a tenancy subsisting at the property, it is likely that the property will be sold subject to the tenancy. That is to say, the new owner will be aware of the tenancy and will expect to collect rent from the tenant. The agreement for sale and purchase made between the old owner and the new owner should also have specified that the new owner will inherit from the old owner all of the rights and liabilities under the tenancy. Therefore, a tenant’s rights and liabilities under the existing tenancy will generally remain unchanged in relation to the new owner."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "However, the deposit paid by the tenant deserves particular attention. According to a judgment made by the Privy Council (the final appellant court for Hong Kong before 1 July 1997) in 1986, the covenant made by a landlord to return the deposit to a tenant is a personal promise, and is thus enforceable only against the landlord personally but not against the new owner. Therefore, unless there are some other arrangements or agreements, the new landlord may not become liable to the tenant in respect of the deposit paid to the old landlord. The tenant should make sure that a fresh deposit is paid to the new landlord after return of the same from the former landlord."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      0
+    ]
+  },
+  "11 - How does the Court determine whether a police officer had reasonable grounds to suspect that a person had committed an offence?": {
+    "sent_result": [
+      {
+        "query": "I was standing outside a store when suddenly a police officer approached me. He started asking me a series of questions about a recent theft that had taken place in the area. I had no clue about it and told him that I had just been out for a walk. The officer seemed skeptical and asked if he could search my bag. I felt nervous and wondered if he had reasonable grounds to suspect me or if he was just randomly picking people to search.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Under what circumstances can the police arrest me? Must they obtain a warrant of arrest beforehand? "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The police may arrest a person according to a warrant issued by a Magistrate under sections 31 , 72 , 73 or 74 of the Magistrates Ordinance . For example, an arrest warrant may be issued if an accused person does not appear in Court when he is due to answer a charge."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "However, an arrest warrant is not always necessary. Under section 50(1) of the Police Force Ordinance , a police officer can \"apprehend\" (i.e. arrest) a person if he reasonably suspects the person being arrested is guilty of an offence. Whether there is such a reasonable suspicion in a particular case is to be determined objectively by reference to facts and information which the arresting officer has at the time of the arrest. It is not necessary that the officer knows the exact statutory provision that the suspect has violated, so long as the officer reasonably suspects that the suspect has done something amounting to an offence."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "A person should be informed of the offence or the crime for which he is suspected to have committed when he is arrested. The arrested person must be told in simple, non-technical language that he could understand, the essential legal and factual grounds for his arrest."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      2
+    ]
+  },
+  "12 - I am an employer. In a recruitment exercise, I want job applicants to disclose their criminal record so that I can choose the appropriate candidate(s). Can I do so?": {
+    "sent_result": [
+      {
+        "query": " I recently started my own small bakery and I'm looking to hire a few employees to help with the daily operations. As a new and inexperienced employer, I want to ensure that I create a safe and trustworthy work environment for my staff and customers. I've received a bunch of resumes and applications from applicants, some of whom seem really qualified and experienced. However, I have no legal knowledge, and I'm not sure if I'm allowed to ask potential employees about their criminal record during the recruitment process. I want to make sure I make the right decision and hire someone who has a clean background, but I don't know if it's within my rights as an employer to ask for such information.",
+        "candidate_scope": [
+          {
+            "score": 1,
+            "candidate_scope": "Can an employer ask job applicants whether they have any criminal record? "
+          },
+          {
+            "score": 0,
+            "candidate_scope": " Data protection principle 1 stipulates that only personal data that are necessary for the purposes for which the data are to be used should be collected. Further, it requires that the data collected should be adequate for those purposes, but not excessive."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "No hard and fast rules have been laid down as to what data are necessary for human resources management purposes and what are not. This will depend on the facts of the individual case. For some jobs, it may be necessary to ask whether or not an applicant has a criminal record (e.g. where the employment position involves the control of valuable items, or to undertake a treasury position). In deciding whether it is necessary to collect a particular piece of information, data users should carefully consider whether the purpose for which the data are being collected could still be satisfied if such data are not collected."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "For more information about criminal records, please go to another topic ­– Police and Crime ."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      0
+    ]
+  },
+  "13 - Does an applicant for the Home Renovation Interest-free Loan need to set out the intended repair works and the cost breakdown?": {
+    "sent_result": [
+      {
+        "query": " As a homeowner who knows nothing about legal knowledge, I'm excited about finally being able to renovate my house after saving up for years. I've heard about a Home Renovation Interest-free Loan program that could potentially help me finance this project. Wanting to take advantage of this opportunity, I decide to apply for the loan. However, the application form is quite detailed and includes a section where I need to provide information about the intended repair works and their cost breakdown. Feeling overwhelmed, I'm unsure whether I need to fill out this section or if I can simply submit the application without these details. I contemplate seeking guidance from a friend or a neighbor who may have experience with such loans or reaching out to the loan program's customer service to clarify the requirements.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Home Renovation Interest-free Loan"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "In addition to a subsidy, loan or grant for the improvement of the common areas of buildings, the Government provides an incentive for home owners to improve or enhance the living conditions in their homes. Eligible applicants may be granted an interest-free loan not exceeding $50,000 or the total cost of approved works (whichever is lower) for interior repairs and maintenance works in flats related to safety and hygiene."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Eligibility. In order to be eligible for the Loan, the following criteria have to be met: The applicant must hold a Hong Kong Identity Card and be aged 18 or above; The subject unit must be in a residential building at least 30 years old; The subject unit must be the only property the applicant owns in Hong Kong, directly or indirectly; The subject unit must be solely / jointly owned by individuals (not owned by companies); and The average rateable value of the residential unit must not exceed $162,000 per annum for properties in the urban area (including Shatin, Kwai Tsing, Tsuen Wan) or $124,000 per annum for properties in the New Territories."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Use of the Loan. The purpose of the Loan is not to provide finance for luxury renovations of an owner’s flat. It must be used only for interior repairs and maintenance works related to safety and hygiene. An applicant, therefore, has to set out in the application form all the intended repair works and a breakdown of the cost."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The maximum loan amount for each application is $50,000 or the approved cost of works, whichever is lower. The Loan has to be repaid over a period of not more than 36 months. Applicants are also required to produce proof of income (such as salary slips) to prove their repayment ability; otherwise, they will be required to execute a legal charge in favour of the Government."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "14 - How does the Guardianship of Minors Ordinance work?": {
+    "sent_result": [
+      {
+        "query": " I recently received the devastating news that my sister and her husband were involved in a car accident. As their closest living relative, I am now faced with the overwhelming responsibility of taking care of their three young children. With no prior knowledge of legal matters, I find myself completely lost and unsure of what steps I need to take to ensure the well-being and custody of these minors. I know I need to understand how the Guardianship of Minors Ordinance works, but I have no idea where to start or who I should approach for guidance.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Custody of children"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "In Hong Kong, proceedings relating to the custody of children are contained in:"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "the Guardianship of Minors Ordinance (GMO), Cap. 13 ; the Matrimonial Causes Ordinance (MCO), Cap. 179 ; the Matrimonial Proceedings and Property Ordinance (MPPO), Cap. 192 ; and the Separation and Maintenance Orders Ordinance , Cap. 16 ."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "The GMO governs court proceedings relating to the custody and upbringing of children. Under the GMO the welfare of the child in question is to be the first and paramount consideration of the courts. Under section 3 of the Ordinance, in any proceedings before any court relating to the custody or upbringing of a minor or the property of a minor, the best interests of the minor are the first and paramount consideration. Due consideration should be given to the views of the minor where it is practical to do so having regard to the minor’s age and understanding and to available information from the Director of Social Welfare.The rights and authority of the mother and father of a child are equal. Where the child is born out of wedlock however, the mother has all the parental rights and authority. Even so, an unmarried father may be granted some or all of the rights and authority he would have had as a father had the child been born legitimately (that is, had he and the mother been married)."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The MCO governs divorce whilst the MPPO deals with ancillary and other relief in matrimonial proceedings. Section 19 of MPPO states that the court may make such order as it thinks fit for the custody and education of a child in matrimonial proceedings such as divorce. Sole custody orders are currently the norm rather than the exception. Under a sole custody order the child lives with one parent, the custodial parent, who has the right to make the decisions regarding the upbringing of the child. The non-custodial parent is usually granted access, which enables contact to be maintained with the child. There is however increasing support for replacing custody orders with parental responsibility orders to emphasise that parents have a responsibility to work together in the best interests of their children and that protracted legal disputes over custody are not in best interests of children."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "For more details about matrimonial matters, please click here ."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "15 - According to the statement, who is responsible for the operation and law enforcement of the Hong Kong portion of the bridge?": {
+    "sent_result": [
+      {
+        "query": "I recently moved to a new neighborhood and noticed that there's a bridge connecting two cities nearby. One day, I was walking along the bridge and saw a group of people arguing about who is in charge of maintaining and enforcing the rules on the Hong Kong side of the bridge. Some said it was the responsibility of the local government, while others believed it fell under the jurisdiction of a separate authority. As someone who knows nothing about legal matters, I couldn't quite grasp the complexities of the situation. The debate got heated, and it made me wonder who actually held the responsibility for the operation and law enforcement of that specific portion of the bridge. I wished I had some legal knowledge to be able to contribute to the discussion and better understand the situation.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Hong Kong's jurisdiction over Shenzhen Bay Port, Hong Kong - Zhuhai - Macao Bridge and the Express Rail Link "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The general legal principle on jurisdiction is: each country shall have jurisdiction over its own land. Hong Kong of course is not a country. But it has its own jurisdictional power under the “one country, two systems” principle. The above general legal principle on jurisdiction therefore must apply also to Hong Kong."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Section  5  of the  Shenzhen Bay Port Hong Kong Port Area Ordinance  ( Cap. 591 ) provides that the laws of Hong Kong shall apply in area lying within Hong Kong. This is consistent with the general legal principle on jurisdiction."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "As for the Hong Kong-Zhuhai-Macao Bridge, there is no statue which expressly deals with the jurisdiction issue. However, according to the “Government Statement in respect of the jurisdiction of the Eastern Artificial Island of the Hong Kong-Zhuhai-Macao Bridge” published on 17 December 2019, the operation and law enforcement of the portion of the Hong Kong-Zhuhai-Macao Bridge situated in Hong Kong are carried out by the Hong Kong Government in accordance with the laws of Hong Kong. This is also consistent with the general legal principle on jurisdiction."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The  Guangzhou-Shenzhen-Hong Kong Express Rail Link (Co-location) Ordinance  ( Cap. 632 ), however, provides a creative deviation from this general principle due to practical consideration. It introduces the “Mainland Port Area” which includes part of the West Kowloon Station and train compartments of passenger trains in operation on the Hong Kong section of the Express Rail Link. The laws of mainland China shall apply in the “Mainland Port Area” which is geographically and physically located in Hong Kong."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "16 - Is there a difference if the premises involved the use of children under 13 years of age for the purpose of prostitution or unlawful sexual acts?": {
+    "sent_result": [
+      {
+        "query": " I recently started volunteering at a local community center, where I assist in organizing different activities for children in need. One day, while working at the center, I noticed a group of older individuals hanging around the perimeter, near the playground area. They seemed out of place and were often talking to young children who were playing. Concerned about the safety of the children, I decided to approach them cautiously and ask if they were affiliated with the community center. Their responses seemed evasive and raised my suspicions further.\n\nAfter discussing my concerns with a coworker who has a background in child protection, they shared that situations like this can sometimes involve child exploitation, such as the use of underage children for prostitution or other unlawful sexual acts. My coworker advised me to gather evidence, such as taking note of any suspicious behavior, observing any strange individuals consistently present around the children, or collecting any potential identifying information. They explained that by doing so, I could assist law enforcement in their investigations and help ensure the safety of the children.\n\nThis encounter left me feeling uneasy and motivated me to learn more about the topic, as I realized how crucial it is to recognize and report any potential signs of child exploitation. It also made me realize the importance of being aware of the laws and systems in place to address such heinous crimes and protect vulnerable children.",
+        "candidate_scope": [
+          {
+            "score": 1,
+            "candidate_scope": "Is there a difference if the premises involved the use of children under 13 years of age for the purpose of prostitution or unlawful sexual acts? "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Yes. The more serious offence contrary to section 140 of the Crimes Ordinance ( Cap. 200 ) of inducing or knowingly allowing a girl or boy under 13 to resort to or be on the premises or vessel for the purposes of an unlawful sexual act or for prostitution may be charged. The maximum penalty for that offence is life imprisonment."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      0
+    ]
+  },
+  "17 - Is there any way for me to get a preliminary indication of whether or not I can get free or subsidised legal assistance?": {
+    "sent_result": [
+      {
+        "query": " As a recent graduate, I decided to start my own small business. However, due to financial constraints and limited resources, I couldn't afford to hire a lawyer to help me navigate the legal aspects of setting up my business. Uncertain about where to turn for help, I reached out to a local community center for advice. They informed me about a government-funded legal aid program that provides free or subsidized legal assistance to individuals who meet certain income guidelines. Although I had no prior knowledge of legal procedures, I gathered my financial documents and scheduled an appointment with the legal aid office. Hoping to get a preliminary indication of whether I qualified for their assistance, I walked into the office with a mix of nerves and optimism, ready to advocate for my rights and receive the support I needed for my business venture.",
+        "candidate_scope": [
+          {
+            "score": 1,
+            "candidate_scope": "Legal Assistance Eligibility Calculator "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "This calculator gives you a preliminary indication of whether or not you can get free or subsidised legal assistance."
+          },
+          {
+            "score": 0,
+            "candidate_scope": " Launch Calculator "
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      0
+    ]
+  },
+  "18 - What must be done to commit the offence acts ouraging public decency?": {
+    "sent_result": [
+      {
+        "query": " I was walking through a busy park one afternoon when I noticed a commotion near the fountain. Curiosity got the better of me, so I approached to see what was going on. To my shock, I saw a man wearing nothing but his underwear dancing provocatively on top of the fountain, taking selfies and laughing loudly. People around him were taken aback and some parents were shielding their children's eyes. I immediately thought to myself, \"What must be done to commit the offense acts outraging public decency?\"- completely clueless about the legal implications of such actions.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Acts Outraging Public Decency "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "It is an offence at common law for a person to do an act or acts which outrage public decency."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The maximum punishment for the offence is 7 years imprisonment. As the offence is a common law offence, there is no specified punishment in any Ordinance in Hong Kong. The maximum punishment of 7 years imprisonment is provided by section 101I of the Criminal Procedure Ordinance ( Cap. 221 ) which sets out the maximum penalty for offences which are not created by a Hong Kong Ordinance."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The offence is intended to prevent the corruption of the mind and the destruction or erosion of values of decency, morality and good order. The focus is upon the defendant’s action and its affect upon members of the public. In considering the affect upon members of the public, the courts apply the standards of right thinking members of the community."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "In general, the offence applies to all grossly scandalous behaviour or behaviour that openly outrages indecency or is offensive and disgusting, or is injurious to public morals by tending to corrupt them."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "The prosecution must prove that the activity complained of was committed in public. That means the offence must be committed in circumstances where there is a real possibility of members of the public witnessing the act. What is done must be sufficiently lewd, obscene or disgusting to be an outrage to public decency. It is not necessary for the prosecution to prove that persons who witnessed the act were outraged. Though the prosecution can call evidence from persons who witnessed the act, ultimately the question of wheter the act outrages public decency is for the court trying the case."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "It is not necessary to prove that the defendant intended to outrage public decency or was reckless whether or not the public would be outraged. It is sufficient for the prosecution to prove the defendant intended to do the act which gives rise to the allegation of outraging pubic decency. Example of this offence includes indecent exposure in public"
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      5
+    ]
+  },
+  "19 - In what circumstances will labour induction be performed?": {
+    "sent_result": [
+      {
+        "query": "I remember one time when I was pregnant and getting closer to my due date. My doctor mentioned something about the possibility of needing to induce my labor. I felt a mix of excitement and nervousness, not really understanding what that meant or why it might be necessary. I knew I had to trust my doctor, but I couldn't help but wonder about the circumstances that would lead to labor induction.",
+        "candidate_scope": [
+          {
+            "score": 1,
+            "candidate_scope": "Labour induction "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Labour induction refers to the process or treatment creating contractions in the uterus before labour to artificially stimulate childbirth and delivery. Labour induction could be recommended for delivery of the baby in necessary circumstance by the responsible medical practitioners. However, labour induction is also a method used to end a pregnancy in the second or third trimester by inducing the labour and delivery of the foetus. Induction abortion has the same legal requirement to be legal just like any other type of methods used for abortion."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      0
+    ]
+  },
+  "20 - What is the mandatory responsibility of the landlord in a tenancy on a subdivided unit under Part IVA of the Landlord and Tenant (Consolidation) Ordinance (Cap. 7)?": {
+    "sent_result": [
+      {
+        "query": " I recently moved to a crowded city for a job opportunity and rented a subdivided unit in an old building. The unit seemed adequate at the time, but after a few days of living there, I noticed several issues. The electricity keeps fluctuating, the water pressure is very low, and there are sanitation problems in the shared bathroom. \n\nI tried addressing these concerns directly with the landlord, but they seem unresponsive and reluctant to take any action. As someone who knows nothing about legal knowledge in tenancy matters, I feel unsure about my rights and what the landlord's responsibilities are in such situations. I want to ensure a safe and habitable living environment, but I don't know where to start or what actions I could take.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "A landlord wishes to evict the tenant within the regulated cycle by withholding the maintenance and repair responsibility reasonably required for the occupation. Does the landlord violate Part IVA of the Landlord and Tenant (Consolidation) Ordinance?"
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Part IVA of the Landlord and Tenant (Consolidation) Ordinance (Cap. 7) stipulates that the maintenance and repair of certain basic facilities in the premises is a mandatory responsibility of the landlord in a tenancy on a subdivided unit. A landlord who fails to comply with such responsibility could be filed by the tenant in civil proceedings for recovery of the cost involved. More seriously, if such an abstain from action is to evict the tenant from the unit, the landlord may commit an offence of harassment under the Ordinance."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Mandatory responsibility for repair and maintenance. Under Part IVA of the Ordinance, the landlord must maintain and keep in repair the drains, pipes and electrical wiring serving the premises exclusively; and windows of the premises. In addition, the landlord must keep in proper working order the fixtures and fittings provided by the landlord in the premises. On receiving a notice from the tenant for the repair of an item mentioned above, the landlord must carry out the repair as soon as practicable. If the landlord fails to fulfill any of his obligations, the tenant may, by giving the landlord not less than 30 days’ prior notice in writing, terminate the tenancy. However, the provision of early termination is a right that the tenant can exercise, and the tenant can opt to occupy the unit without surrendering the tenancy."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Civil proceedings. Alternatively, the tenant may first carry out the repairs where practicable, and claim the landlord for the repair costs. If needed, the tenant may take legal actions (e.g. the Small Claims Tribunal deals with monetary claims not exceeding HK$75,000)."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Apart from section 5 in Schedule 7 to the Ordinance which stipulates a few mandatory terms on maintenance and repair as part of landlord’s obligations under a regulated tenancy to which Part IVA of the Ordinance applies, a landlord and a tenant may freely negotiate and agree on appropriate terms. In the event of tenancy disputes on maintenance and repair matters which cannot be settled between the landlord and the tenant, either party may resort to legal proceedings to deal with the matters."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Offence of harassment. Perhaps of greater concern is that withholding services reasonably required for occupation of the tenant might commit an offence of harassment under Part IVA of the Ordinance. If a person, in relation to a subdivided unit: either does any act calculated to interfere with the peace or comfort of the tenant or members of the tenant’s household; or persistently withdraws or withholds services reasonably required for occupation of the subdivided unit as a dwelling; and knows, or has reasonable cause to believe, that that conduct is likely to cause the tenant to give up occupation of the subdivided unit; or to refrain from exercising any right or pursuing any remedy in respect of the subdivided unit,"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "the person commits an offence and is liable on conviction on indictment by the court on a first conviction, to a fine of $500,000 and to imprisonment for 12 months; and on a second or subsequent conviction, to a fine of $1,000,000 and to imprisonment for 3 years (see Section 120AAZO)."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      1
+    ]
+  },
+  "21 - How long is the further disqualification period for the first-time conviction of driving while disqualified?": {
+    "sent_result": [
+      {
+        "query": "I recently got pulled over for driving over the speed limit, and when the officer checked my license, he informed me that I was driving while disqualified. I had no idea that my license had been suspended due to my previous traffic violations. Now, I'm facing legal consequences for my actions and I'm unsure about the further disqualification period for my first-time conviction.",
+        "candidate_scope": [
+          {
+            "score": 1,
+            "candidate_scope": "Driving while disqualified "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "A more serious offence related to driving licences is “driving while disqualified”. A person committing this offence “is liable to a fine of $10,000 and to imprisonment for 12 months”; and unless there is any special reason for committing the offence, the Court shall order a further disqualification of at least 12 months in the case of a first conviction, and at least 3 years in the case of the second or subsequent conviction ( section 44 of the Road Traffic Ordinance ( Cap.374 of the Laws of Hong Kong))."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      0
+    ]
+  },
+  "22 - In the case of making application to the Commissioner of the Rating and Valuation Department (the Commissioner) for the issue of a primary user certificate for the premises without a dispute, what is the fee for the application?": {
+    "sent_result": [
+      {
+        "query": " I recently moved into a new apartment and noticed that the previous tenant had left some furniture and belongings behind. I tried contacting the landlord to inform them about it, but they were unresponsive. After waiting for a few weeks, I decided to take matters into my own hands and dispose of the items. However, one day, I received a letter in the mail from the local council stating that I had violated a bylaw and needed to pay a fine for improper disposal. I had no idea about this specific bylaw or the associated fees, and I found myself in a situation where I had to navigate the legal system to address the issue and understand what the appropriate fee was for the violation.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "d) Determination of Regulated Tenancy "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "A tenancy which fulfils all of the following conditions is a regulated tenancy under Part IVA of the  Landlord and Tenant (Consolidation) Ordinance (Cap. 7):"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "the tenancy commences on or after 22 January 2022; the tenancy is a domestic tenancy; the subject premises of the tenancy are a subdivided unit; the tenant is a natural person; the purpose of the tenancy is for the tenant’s own dwelling; and the tenancy is not one specified in  Schedule 6  to the Ordinance, i.e. the tenancy is not an excluded tenancy."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Lands Tribunal. Any person, including landlord and tenant, having an interest in any premises may apply to the Lands Tribunal to determine whether or not a tenancy for the premises is a regulated tenancy for the purpose of Part IVA of the Ordinance."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Applicants are required to file with the Registrar of the Tribunal a notice of application substantially in accordance with  Form 22  (Part B of Form 22 be completed) in order to set out the nature of the application. For application details, please refer to the Tribunal webpage."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Commissioner of Rating and Valuation. If a dispute arises as to whether a tenancy of any premises is a domestic tenancy (see item (2) above) and the primary user of the premises is relevant to the dispute, the landlord or tenant of the premises may apply to the Commissioner of the Rating and Valuation Department (the Commissioner) for the issue of a primary user certificate for the premises in  Form TR4  at no fee."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Before the Commissioner issues a primary user certificate for any premises, the Commissioner must carry out an inspection of the premises for the purpose of determining the primary user of the premises. If the evidence available as to the primary user of the premises is satisfied, the Commissioner must issue a primary user certificate as to the primary user of the premises on the day of the inspection and serve on the landlord and tenant. Otherwise, the Commissioner must issue a notice declining to express an opinion as to the primary user of the premises."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The certificate shall, for all purposes, be evidence of the facts set out in the certificate and of the primary user of the premises as at the day when they were inspected."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "However, if the Commissioner has already issued a primary user for any premises, no further application may be made for the premises before the expiry of 1 year from the day on which the primary user certificate is issued."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "A landlord or tenant of any premises may also apply to the Commissioner for the issue of a primary user certificate for the premises, even though no dispute arises as to whether the tenancy is a domestic tenancy. In such cases, the applicant is required to submit  Form TR4D  at a fee and propose in the application form a day (other than a public holiday) on which the Commissioner may carry out an inspection of the premises."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "For application details, please refer to the notes of the relevant forms available on  the Rating and Valuation Department’s webpage ."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      9
+    ]
+  },
+  "23 - If a limited company wish to be represented by one of its directors instead of a solicitor in the Court of First Instance, what should they do?": {
+    "sent_result": [
+      {
+        "query": " As a director of a small limited company, I find myself in a tight financial situation. We have been operating for a few years now, but unexpected expenses and a recent decline in sales have put a strain on our resources. Unfortunately, this has also affected our ability to afford legal representation for an ongoing dispute.\n\nOne day, I receive a notice stating that our case will be heard in the Court of First Instance in a month's time. Feeling overwhelmed and unsure of what to do, I start researching my options. It becomes clear to me that hiring a solicitor is out of the question due to our financial constraints.\n\nSeeking a solution, I stumble upon a suggestion that directors can represent their companies in court proceedings. It intrigues me, but I have no legal knowledge or experience whatsoever. I start wondering if this is a viable option, and if so, what steps I would need to take to ensure I can effectively represent my company's interests.\n\nFeeling lost and unsure of how to proceed, I reach out to acquaintances who might have some legal background or connections. Through networking, I manage to connect with a friend of a friend who works as a paralegal. I explain my situation to them, and they offer to guide me through the process of representing my company in court as best they can.\n\nWith their help, I start to understand the basics of the legal system and the responsibilities and limitations I would face as a director representing my company. We spend long hours reviewing case files, legislation, and preparing strategies for presenting our arguments. My paralegal friend also advises me on how to communicate effectively with the court and opposing party, ensuring I am aware of the etiquettes and protocols necessary for a successful appearance.\n\nAs the court date approaches, I can't help but feel a mix of anxiety and determination. Armed with the newfound knowledge and support from my paralegal friend, I step into the Court of First Instance as the representative of my company, ready to present our case to the best of my ability.\n\nNote: This scenario does not directly involve hiring a director as representation, but it depicts a situation where someone without legal knowledge may encounter such a need and attempt to navigate the process on their own.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Will I need a lawyer to handle my case? "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "You have the right to act in person (i.e. to handle your case by yourself). Alternatively, you may instruct a lawyer to represent you and present your case to the court."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "You should note that if your claim is brought in the Labour Tribunal or the Small Claims Tribunal, then no legal representation is permitted. Claims in the Labour Tribunal and the Small Claims Tribunal are generally more straightforward. However, in many other types of cases, the legal procedure involved can be considerably more complicated. For example, a personal injury claim involves matters like writing to the person you are claiming from to set out the details of your claim, exchanging evidence, trying to agree on the medical reports to be used, preparing witness statements for yourself and for those who saw your accident, etc. You will also need to make a realistic assessment of the amount of damages you are seeking. It may therefore be preferable to get some professional help and advice from a lawyer."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "You should note that while court staff can assist you with enquiries on court procedures (e.g. what forms you need and how to fill them in), they will not provide any legal advice or offer any comment or assistance on the conduct of specific court cases and proceedings. Thus, if you want to know whether you have a good claim or whom you should sue, you have to consult your own lawyer."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "You should also bear in mind that it is the duty of the parties to present their case to the court for its determination. The court itself does not investigate the case. In other words, the judge will be acting as an umpire and makes decisions after considering the evidence presented and hearing the arguments from all parties. You cannot expect the judge to give much assistance to a litigant presenting his case in person."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Where the parties are limited companies"
+          },
+          {
+            "score": 1,
+            "candidate_scope": "For cases which are heard in the Court of First Instance of the High Court, a limited company must engage a solicitor to attend the court hearing on its behalf unless leave (permission) is obtained from the court for it to be represented by one of its directors. The company's application for such leave has to be made to the Court Registrar and supported by an affidavit or affirmation made by the director concerned, stating and verifying the reasons. The company may rely on the reason that it is unable to afford to pay for the services of a solicitor or for some other good reasons. Apart from the relevant exhibits in support (i.e. supporting documents such as copies of the company's audited accounts and current bank accounts showing the up-to-date financial position), a board resolution of the company authorizing the director to appear on its behalf in the proceedings must be exhibited (attached) to the director's affidavit or affirmation. Whether to grant the leave or not is purely at the discretion of the Court Registrar. The company cannot appeal against the decision."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "If the matter is heard in theDistrict Court, a limited company may begin or carry on proceedings by one of its directors if the director has filed an affidavit or affirmation stating that he has been duly authorized by the board of directors to represent the company and exhibiting a copy of the board resolution duly certified by another director or the secretary of the company. In other words, the relevant company is not required to seek permission from the court (unlike a case in the High Court) if it has duly prepared the affidavit/affirmation together with the company's board resolution."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      6
+    ]
+  },
+  "24 - What are the usual contents of a rent suspension clause?": {
+    "sent_result": [
+      {
+        "query": "I recently moved into a new apartment and was excited to start my life in a new city. However, after a few weeks, I noticed some major issues with the plumbing in the apartment. The toilet was constantly leaking and there were sewage backups in the bathroom. I reached out to the landlord multiple times to get the repairs done, but they kept brushing off my requests.\n\nFrustrated and worried about the potential health hazards, I started researching my rights as a tenant. I stumbled upon the term \"rent suspension clause\" while looking into possible solutions. Curious, I wanted to understand what this clause typically entails and how it could potentially help me in this situation.\n\nAs someone with no legal knowledge, I found myself struggling to comprehend the complexities of the clause. I wondered about its usual contents, such as how rent suspension may be justified, how much rent can be suspended, and under what circumstances it could be invoked.\n\nFeeling overwhelmed with the legal jargon, I realized I needed to seek professional advice to fully understand my rights as a tenant and navigate through this difficult situation.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "e) Suspension of rent "
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Sometimes a tenancy agreement may contain provisions to the effect that the payment of rent or a proportionate part thereof shall be suspended in the case that the subject premises or any part thereof is destructed or damaged by certain calamities, for example fire, flood, typhoon, earthquake or white ants, or if the premises is rendered uninhabitable or inaccessible for any cause beyond the control of the parties."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "A suspension of rent clause is often construed narrowly. If the premises is damaged but not destroyed, it must be so severely damaged as to be rendered unfit for use, not merely in a dilapidated state or in need of repair."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Typically rent shall become payable again once the property is repaired or become accessible."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      1
+    ]
+  },
+  "25 - When was the Law Society Free Legal Helpline established?": {
+    "sent_result": [
+      {
+        "query": "I recently got into a minor car accident and I'm not sure what to do next. It's the first time this has happened to me, and I don't have much knowledge about the legal process involving accidents. I need advice on what steps to take, how to handle insurance claims, and if I need to involve the police. I decided to search online for help and came across a free legal helpline for situations like mine. I'm hoping to get guidance from professionals who can clarify my rights and responsibilities in this situation.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Law Society Free Legal Helpline "
+          },
+          {
+            "score": 1,
+            "candidate_scope": "The Law Society Free Legal Helpline provides assistance to members of the general public who have suffered personal injuries in accidents and need help to make a claim for compensation. This Helpline was established in May 2013. A Panel of solicitors will provide telephone consultation to accident victims for up to 45 minutes free of charge."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "You can call the Helpline yourself (telephone no: 8200 8002), or a relative or a friend (who must be aged 18 or over) can make enquiries on your behalf."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The helpline operates from 9 a.m. to 5:30 p.m., Monday to Friday. A voice mail service is active after business hours and during public holidays."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      1
+    ]
+  },
+  "26 - What is a turnover rent for leasing business premises? ": {
+    "sent_result": [
+      {
+        "query": "I recently started my own small retail store in a shopping mall. I signed a lease agreement with the mall management, and everything seemed to be going well until I received an unexpected notice. The notice talked about a \"turnover rent\" that I needed to pay every month in addition to my fixed rental amount. I had no idea what this meant and why I had to pay extra. I was completely clueless about turnover rents and had no legal knowledge to understand the terms and conditions mentioned in the lease agreement. It left me feeling overwhelmed and worried about the impact it might have on my business's finances.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "LOCATION OF BUSINESS PREMISES, LICENCES, DOCUMENTS OF GUARANTEE AND HUMAN RESOURCES MATTERS"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "In deciding whether to lease or buy office or retail premises for your business, you should consider the cash or credit that is available and the potential return on the investment. Note that for taxation purposes, any rent that is paid to lease a premises, or the capital costs that are incurred in purchasing, maintaining and repairing a premises can be deducted from the income of the business."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "If the business premises are leased, then attention should be paid to the following: Whether the rent is fixed or based on a percentage of sales (also called \"turnover rent\", which means that the rent will be calculated at a specified percentage of the sales turnover). Whether the tenant has the right to sublet if the business is to be downsized or closed down (thereby minimising the financial loss involved). Whether there is any option to renew the lease and how any rent increase is to be determined. Whether there are any restrictions on the use of the premises. Whether there is any right of access to shared facilities."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The advice of a lawyer should be sought in relation to these matters. Please also refer to the Landlord and Tenant topic for basic information about tenancy law. You must also take out appropriate insurance against occupiers' liability."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The Occupiers Liability Ordinance imposes a duty of care on you (as the owner or occupier of the premises) in relation to injuries to any visitors, including guests, workmen, and people who deliver goods to your premises."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      2
+    ]
+  },
+  "27 - What is the maximum amount of monthly income for the calculation of an employee's mandatory contribution?": {
+    "sent_result": [
+      {
+        "query": "My coworker recently got a job offer at a new company. She was excited about the opportunity but had no idea about the maximum amount of monthly income that would be used to calculate her mandatory contributions. She reached out to me for advice since I had some basic knowledge of employment laws.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "17. What are the statutory amounts or percentages of income for mandatory contributions under MPF schemes? "
+          },
+          {
+            "score": 1,
+            "candidate_scope": "In the case of employees, the mandatory contribution to be made respectively by the employees and their employer is a sum equal to 5 percent of the employee's monthly wage. For the calculation of mandatory contribution, the monthly wage is subject to a maximum amount of $25,000 per month. However, an employee whose monthly wage is less than $6,500 is not required to make the mandatory contribution."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "For self-employed persons, the mandatory contribution is 5 percent of the person's monthly earnings (subject to a maximum level of income of $25,000 per month or $300,000 per year). Similar to the case of employees, a self-employed person whose monthly income is less than $6,500 is not required to make mandatory contributions."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "In the case of casual workers who are members of an industry scheme, the authority publishes the required percentage of contribution. Please also note that these casual employees are not required to make mandatory contributions if their daily income is less than $250."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "In addition to the mandatory contributions, employees or self-employed persons can also make voluntary contributions to their MPF schemes. For guidelines regarding voluntary contributions, you should check with your scheme providers."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      1
+    ]
+  },
+  "28 - Why may parties compete to obtain the first divorce decree?": {
+    "sent_result": [
+      {
+        "query": " \nI recently found myself in a situation where my best friend and her spouse decided to separate and pursue a divorce. As someone who knows nothing about legal procedures, I observed that both parties seemed eager to obtain the first divorce decree. Curiosity got the better of me, so I decided to dig a little deeper to understand why they were so competitive about it.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Shall I choose to apply for divorce in Hong Kong?"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "a. Alternative option. Given the fact that Hong Kong is an international financial centre, it is common in Hong Kong for either or both parties to a marriage to have a close connection with another country, this is particularly so among the expatriates."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "It is important to consider from a pragmatic perspective whether or not Hong Kong is the best place to initiate the divorce proceedings. The following factors are of relevance: How each country under consideration deals with divorce, the custody of children, and the financial matters － there may be vast significant differences, particularly over financial matters. For instance, in the US and Canada, they have ‘community property’ laws, so that “marital property” (i.e. property acquired during the marriage) is divided equally on divorce. One cannot obtain a divorce in Australia or New Zealand until you have been separated for a year. New Zealand courts approach the division of capital assets in a similar way as in the States and Canada and do not place as much emphasis on maintenance rights as the courts in Hong Kong do. Also, although the systems of divorce in Hong Kong and in England and Wales are very similar, they are not identical. It is important to have regard to the ease of enforcement of any court orders obtained against his or her spouse. For example, if your spouse refused to pay alimony, what action can be done against his or her assets? (It is usually convenient and most beneficial to charge or freeze against his or her assets when the court orders are made in the country in which the non-complying spouse lives and/or the main family assets are situated). It is usually more convenient to initiate the divorce proceedings in the country in which you reside because of the easier access to your lawyers and attendance in court if necessary."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "If either or both parties to the marriage have substantial or close connections with one or more alternative countries or if your spouse is intending to institute proceedings in one country when it occurred to you that the legal system of another country might be available and of greater benefit to you, then you should seek legal advice from a matrimonial lawyer in each country before starting any divorce proceedings in order to make an informed decision. This has to be done without delay, failing which time (which is closely related with costs) would be wasted."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "If both parties commence divorce proceedings in different countries, it is likely that it would give rise to a costly dispute over which country is the most appropriate place or forum for dealing with the divorce. The parties may even compete to obtain the first divorce decree, since the forum or the country in which the first decree is made will then be empowered to deal with the important ancillary matters of children and finance."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "b. Recognition of Hong Kong divorce decrees. For the sake of saving unnecessary costs, before you start the divorce proceedings, it is vital to check for the recognition of the divorce decree that you intend to obtain, that is, whether it would be recognized by the Hong Kong Court, or whether the Hong Kong divorce decree is recognized by other countries."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Although the divorce decree granted by Hong Kong Court is recognized in many countries, it is not recognized in all places. In this regard, you should consult your lawyers."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      4
+    ]
+  },
+  "29 - I am an employer. When can I reject data access requests taken out by employees?": {
+    "sent_result": [
+      {
+        "query": "I recently started my own small business and hired a few employees. One day, I received a data access request from one of my employees, asking for all the personal information I have stored about them. Being a new employer, I have no idea what to do in this situation. I don't know the legal requirements for handling such requests or when I can reject them. I need guidance to understand my responsibilities and rights as an employer when it comes to data access requests from employees.",
+        "candidate_scope": [
+          {
+            "score": 1,
+            "candidate_scope": "Are there any situations in which employers holding personal data may be exempt from the Ordinance or the data protection principles? "
+          },
+          {
+            "score": 0,
+            "candidate_scope": " Sections 53 and 55 of the Ordinance state that personal data relating to the following purposes are exempt from the provisions of right of access ( data protection principle 6 ): personal data relating to staff planning; personal data generated by certain evaluative processes, including a recruitment or promotion exercise, prior to a decision being taken and where an appeal can be made against such a decision; a personal reference for an appointment up to the time when the position is filled."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "It should be noted that the use of any exemption is discretionary but not mandatory. In other words, an employer can still choose to comply with access requests to personal data irrespective of the above exemption."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      0
+    ]
+  },
+  "30 - How could employers ensure that employees' ID card copies are not misued or abused?": {
+    "sent_result": [
+      {
+        "query": " \n\nI recently started a new job at a small tech startup. On my first day, the HR department asked me to provide a copy of my ID card for their records. As someone who knows nothing about legal knowledge, I was unsure about the reasons behind this request or how my ID card copy would be handled.\n\nDespite my hesitation, I went ahead and handed over a photocopy of my ID card to the HR representative. However, as time went by, I couldn't shake the feeling that my ID card copy might be misused or potentially fall into the wrong hands.\n\nI raised my concerns during a team meeting, and the HR representative assured me that they have strict policies in place to ensure the security and confidentiality of employees' personal information. They explained that my ID card copy is stored securely in a password-protected database accessible only by authorized HR personnel.\n\nThey further elaborated that access to this information is limited to those who genuinely require it for specific purposes, such as verifying employees' identities, administering benefits, or complying with legal obligations.\n\nTo put my mind at ease, the HR representative mentioned that the company regularly conducts internal audits to ensure compliance with privacy laws and regulations. They also discussed the precautions they take to safeguard sensitive data, like using encrypted servers and implementing secure login procedures.\n\nOverall, this conversation with the HR representative helped me understand the measures the company had in place to protect my ID card copy from misuse or abuse. It alleviated my concerns and restored my trust in the company's commitment to safeguarding employee data.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "If I have accepted an employment offer, can my employer collect a copy of my ID card? "
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Yes, as a copy of your ID card is evidence of your employer's compliance with the requirements of the Immigration Ordinance to inspect your ID card before employing you. However, companies are required by the Code to mark the word \"copy\" across the image of copies of ID cards to reduce the chance for misuse and abuse."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      1
+    ]
+  }
+}

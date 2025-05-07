@@ -1,0 +1,566 @@
+{
+  "1 - - How does Kindler syndrome impact daily life?": {
+    "sent_result": [
+      {
+        "query": "I recently noticed that my hands and feet were developing strange blisters that would burst and leave behind scars. The skin on my hands also seemed to be getting thinner and more wrinkled. I was confused and worried about what was happening to me. All of a sudden, I started experiencing pain and discomfort while eating, and my skin reacted badly to even short periods of sun exposure. I felt so lost and had no idea what was going on with my body.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Junctional epidermolysis bullosa is usually severe. People who have the most serious form can have open sores on the face, trunk, and legs, which may become infected or cause severe dehydration due to fluid loss. Blisters also can develop in the mouth, esophagus, upper airway, stomach, intestines, urinary system, and genitals. Other symptoms and problems related to the disease may include: Rough and thickened or absent fingernails and toenails. Blisters on the scalp or loss of hair with scarring. Malnutrition resulting from poor intake of calories and vitamins due to blistering in the mouth and gastrointestinal tract.  Anemia. Slow overall growth. Poorly formed tooth enamel. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Dystrophic epidermolysis bullosa has slightly different symptoms, depending upon whether the disease is dominant or recessive; however, most people have the recessive subtype. Recessive subtype: Symptoms tend to be moderate to severe and may include: Blisters usually appear over large areas of the body; in some milder cases of the disease, blisters may only appear on feet, elbows, and knees. Loss of nails. Skin scarring, which may cause the skin to be thick or thin. Milia, which are small white bumps on the skin. Itching. Anemia. Slow overall growth. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Severe forms of the recessive subtype may lead to eye damage, tooth loss, blistering inside the mouth and gastrointestinal tract, and fusing together of the fingers or toes. There is also a high risk of developing skin cancer. This cancer tends to grow and spread faster in people with epidermolysis bullosa than in those without the disease. Dominant subtype: Symptoms may include: Blisters only on the hands, feet, elbows, and knees. Change in shape of nails or nail loss. Milia. Blisters inside the mouth. "
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Kindler syndrome does not have any subtypes. The blisters usually appear on the hands and feet and, in severe cases, spread to other areas of the body, including the esophagus and bladder. Other symptoms include thin, wrinkled skin; scarring; milia; and sensitivity of the skin to sun damage."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Causes of Epidermolysis Bullosa. Mutations (changes) to genes that you inherit from your parents cause most forms of epidermolysis bullosa. Genes carry information that determines which features are passed to you from your parents. We have two copies of most of our genes—one from each parent. People with the disease have one or more genes that carry the incorrect instructions to make certain proteins in the skin."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "There are two types of inheritance patterns: Dominant, which means you inherit one normal copy and one copy of the gene that causes epidermolysis bullosa. The abnormal copy of the gene is stronger or “dominant” over the normal copy of the gene, causing the disease. A person with a dominant mutation has a 50% chance (1 in 2) of passing on the disorder to each of his or her children. Recessive, which means that your parents do not have the disease, but both parents have an abnormal gene that causes epidermolysis bullosa. When both parents carry the recessive genes, there is a 25% chance (1 out of 4) per pregnancy of having a child with the disease. There is a 50% chance (2 out of 4) per pregnancy of having a child who inherits one abnormal recessive gene, making them a carrier. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Researchers know that epidermolysis bullosa acquisita is an autoimmune disease, but they do not know what causes the body to attack the collagen in a person’s skin. Sometimes, people with autoimmune inflammatory bowel disease also develop epidermolysis bullosa acquisita. Rarely, medications cause the disease."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "2 - 3. At what age does the brain fully mature?": {
+    "sent_result": [
+      {
+        "query": " I recently turned 18, and my friends invited me to a party where there was drinking involved. I heard that at this age, the brain is not fully mature yet, so I wonder if it's safe for me to try alcohol or if it could have any long-term effects on my brain development.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Alcohol and the Adolescent Brain\n"
+          },
+          {
+            "score": 1,
+            "candidate_scope": "As adolescents mature, they undergo complex developmental changes, especially in their brains. The widespread changes in the organization and functioning of the brain—which continue into a person’s mid-20s—bring about the cognitive, emotional, and social skills necessary for adolescents to survive and thrive. The nature of these rapid changes may also increase the adolescent brain’s vulnerability to alcohol exposure."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Patterns of Adolescent Drinking. People often begin to drink alcohol and use other substances during adolescence. According to the 2022 National Survey on Drug Use and Health (NSDUH), about 34.2% of people ages 12 to 20—or 13.2 million—reported having tried alcohol at least once in their lifetime. Although adolescents tend to drink alcohol less often than adults, they tend to drink more when they do drink. Approximately 8.2% percent of people ages 12 to 20—or 3.2 million—reported binge drinking in the past month."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Relationship Among Adolescent Risk-Taking, Brain Plasticity, and Drinking. Adolescents are motivated to explore and take risks. These learning experiences, complemented by the adolescent brain’s increased ability to readily change in response to experiences (also known as brain plasticity), are key to developing the skills and knowledge to become independent. Although this increase in brain plasticity and risk-taking can provide incredible opportunities for learning and personal growth, it also makes adolescents more vulnerable to both the short-term and long-term negative effects of alcohol. For example, a sizable body of research links the early initiation of alcohol use to unsafe alcohol-related behaviors. In general, underage drinking can lead adolescents to make poor decisions and engage in potentially harmful behavior (e.g., drinking and driving, unsafe sexual behavior, and other substance use) that can result in a range of negative consequences, such as injuries, sexual assaults, and even death."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Research suggests that the patterns in adolescent brain development may increase the likelihood of adolescents engaging in unsafe behaviors such as alcohol use.5 For example, the systems of the brain that respond to rewards and stressors are very active in adolescence. Meanwhile, the areas of the brain involved in planning and decision-making (the prefrontal cortex) are the last areas to mature, typically at least into the mid-20s. Scientists have found that alcohol causes less sedation (sleepiness) and smaller impairments in balance and muscle coordination in adolescent rodents than adult rodents.5 If this research holds true for humans, it could put adolescents at even greater risk of harm from alcohol by allowing them to continue drinking and reach higher blood alcohol levels despite impairments in decision-making and impulse control."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      1
+    ]
+  },
+  "3 - - Can hidradenitis suppurativa be cured?": {
+    "sent_result": [
+      {
+        "query": " I noticed some painful, lumpy areas in my armpits that seemed to be getting larger and more uncomfortable. Eventually, I realized that the same thing was happening in my groin area. I have no idea what's causing it or how to make it better.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Smoking and obesity may be linked to HS. People who are obese tend to have more severe symptoms. HS is not contagious. Poor personal hygiene does not cause HS."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Symptoms of Hidradenitis Suppurativa. In people with hidradenitis suppurativa, pus-filled bumps on the skin or hard bumps beneath the skin can progress to painful, inflamed areas (also called “lesions”) with chronic drainage. In severe cases, the lesions can become large and connected by narrow tunnel-like structures beneath the skin. In some cases, HS leaves open wounds that won’t heal. HS can cause significant scarring."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "HS tends to occur where two areas of skin may touch or rub together, most commonly the armpits and the groin. Lesions may also form around the anus, on the buttocks or upper thighs, or under the breasts. Other less frequently involved areas may include behind the ear, the nape of the neck, the areola of the breast, the scalp, and the area around the navel."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Some people with relatively mild disease may have just one affected area, while others have more extensive disease with lesions in multiple sites. Skin problems from HS are usually symmetrical, meaning if an area on one side of the body is affected, the corresponding area on the opposite side is often affected as well."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Causes of Hidradenitis Suppurativa. Hidradenitis suppurativa begins in the hair follicle in the skin. The cause of the disease is unknown, although a combination of genetic, hormonal, and environmental factors likely play a role in its development."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "An estimated one-third of people with HS have a family member with a history of the disease. The disease seems to have an autosomal dominant pattern of inheritance in some affected families. This means that only one copy of an altered gene in each cell is needed to cause the disorder. A parent who carries the altered gene has a 50 percent chance of having a child with the mutation. Researchers are working to identify which genes are involved."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "4 - - What are the consequences of low levels of infection-fighting cells in the body?": {
+    "sent_result": [
+      {
+        "query": "I woke up feeling more tired than usual, and my friend noticed that I seemed to be getting sick frequently. I hadn't paid much attention until I started experiencing prolonged weakness and my wounds seemed to take longer to heal. Worried, I decided to go for a check-up, not realizing that the persistent fatigue and slow recovery from common illnesses could be related to something more serious, such as low levels of infection-fighting cells in my body.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Osteopetrosis\n"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Overview of Osteopetrosis. Osteopetrosis is group of a rare disorders that cause bones to grow abnormally and become overly dense. When bones become overly dense, they are brittle and can fracture (break) easily. In addition, bones may be misshapen and large, causing other problems in the body. For example, changes to the bone size and density of the skull can cause pressure on nerves leading to vision loss, hearing loss, and paralysis of the facial muscles."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "As bone increases in size, the amount of space for the bone marrow (soft, sponge-like tissue in the center of most bones that produces blood cells) becomes crowded. Decreases in the amount of space for bone marrow can lead to low levels of cells in the body that fight infection, carry oxygen to the body’s cells, or control bleeding."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Osteopetrosis are genetic diseases that a child inherits from their parents. The disorder may be mild to severe, and symptoms may appear early in infancy or later in adulthood. The treatment options depend on the type of osteopetrosis the person has.  "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "What happens in osteopetrosis? Normally, old bone is broken down and new bone is formed. However, this process does not work properly in people with osteopetrosis. Instead, old bone is not broken down as new bone is formed. This causes the bone to develop incorrectly, leading to dense, thick bones that can fracture easily. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Who Gets Osteopetrosis? People with a family history of the disease are at greater risk of inheriting it through an abnormal gene that is passed on from one or both parents."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      2
+    ]
+  },
+  "5 - - How common is it to develop a macular hole in both eyes?": {
+    "sent_result": [
+      {
+        "query": "I recently turned 60 and have always had issues with my eyesight, struggling with very nearsightedness. While going about my day, I suddenly notice some vision changes in one eye. It's not painful, but I'm concerned because my aunt had some major eye issues last year. I wonder if I could be at risk for something more serious like a macular hole, considering my age and eye condition.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "What are the symptoms of a macular hole? If your other eye has good vision, you may not notice any symptoms from a macular hole. When a macular hole does cause symptoms, they often start slowly. At first, you might notice that things look distorted or blurry when you look straight ahead. Lines or straight objects — like a window frame — might look bent, wavy, or like they’re missing a piece in the center. It might be harder to do everyday tasks like reading, writing, or driving."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Over time, you might notice a blurred or blind spot in your central vision. When reading, you may see the lines but miss letters or words in the center. Or you may be able to see a person’s face but not their nose or eyes. Early treatment with surgery can often restore vision. Without early treatment, central vision loss may be permanent."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Is a macular hole the same as age-related macular degeneration? No. Macular holes and age-related macular degeneration can cause similar symptoms and they’re both common in people over age 60, but they're different. If you aren't sure which condition you have, talk to your eye doctor. Learn more about age-related macular degeneration"
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Am I at risk for a macular hole? If you’ve had a macular hole in 1 eye, you’re more likely to develop it in the other eye. About 1 in 10 people who get a macular hole in 1 eye will develop a macular hole in their other eye. You’re also at risk for a macular hole if you: Are age 60 or older. Are very nearsighted. Have had an eye injury or eye surgery"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "What causes a macular hole? Most of the time, a macular hole happens because of changes in your eye as you get older. As you age, the vitreous (the clear gel-like fluid that fills your eye and gives it a round shape) shrinks and pulls away from the retina. This is called vitreous detachment, and it happens to everyone as they get older. In some people, the vitreous is attached more firmly to the macula and it pulls on the macula as it detaches. This pulling and stretching of the retina can cause a macular hole."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "How will my eye doctor check for a macular hole? Your eye doctor will check for a macular hole by doing a test called an optical coherence tomography (OCT). This is a painless test that uses light waves to take detailed pictures of your retina. Before the test, your doctor may give you some eye drops to dilate (widen) your pupil."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "What’s the treatment for a macular hole? If a macular hole is affecting your vision, you’ll probably need a type of surgery called vitrectomy to fix the hole and prevent permanent vision loss. During a vitrectomy, the doctor removes the vitreous and some tissues on the surface of the macula and injects a gas bubble into your eye. The bubble is like a temporary bandage that holds the edges of the macular hole together and helps your eye close the hole."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "6 - - What increases the risk of developing diabetic retinopathy?": {
+    "sent_result": [
+      {
+        "query": "I recently found out I have gestational diabetes during my pregnancy. I didn't realize that having diabetes during pregnancy puts me at high risk for developing diabetic retinopathy. Now I'm concerned about my eye health and want to make sure I get a comprehensive dilated eye exam as soon as possible to monitor any potential issues.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "What are the symptoms of diabetic retinopathy? The early stages of diabetic retinopathy usually don’t have any symptoms. Some people notice changes in their vision, like trouble reading or seeing faraway objects. These changes may come and go. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "In later stages of the disease, blood vessels in the retina start to bleed into the vitreous (gel-like fluid that fills your eye). If this happens, you may see dark, floating spots or streaks that look like cobwebs. Sometimes, the spots clear up on their own — but it’s important to get treatment right away. Without treatment, scars can form in the back of the eye. Blood vessels may also start to bleed again, or the bleeding may get worse."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "What other problems can diabetic retinopathy cause? Diabetic retinopathy can lead to other serious eye conditions:  Diabetic macular edema (DME). Over time, about 1 in 15 people with diabetes will develop DME. DME happens when blood vessels in the retina leak fluid into the macula (a part of the retina needed for sharp, central vision). This causes blurry vision. Neovascular glaucoma. Diabetic retinopathy can cause abnormal blood vessels to grow out of the retina and block fluid from draining out of the eye. This causes a type of glaucoma (a group of eye diseases that can cause vision loss and blindness). Learn more about types of glaucoma. Retinal detachment. Diabetic retinopathy can cause scars to form in the back of your eye. When the scars pull your retina away from the back of your eye, it’s called tractional retinal detachment. Learn more about types of retinal detachment"
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Am I at risk for diabetic retinopathy? Anyone with any kind of diabetes can get diabetic retinopathy — including people with type 1, type 2, and gestational diabetes (a type of diabetes that can develop during pregnancy).    Your risk increases the longer you have diabetes. Over time, more than half of people with diabetes will develop diabetic retinopathy. The good news is that you can lower your risk of developing diabetic retinopathy by controlling your diabetes.   Women with diabetes who become pregnant — or women who develop gestational diabetes — are at high risk for getting diabetic retinopathy. If you have diabetes and are pregnant, have a comprehensive dilated eye exam as soon as possible. Ask your doctor if you’ll need additional eye exams during your pregnancy. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "What causes diabetic retinopathy? Diabetic retinopathy is caused by high blood sugar due to diabetes. Over time, having too much sugar in your blood can damage your retina — the part of your eye that detects light and sends signals to your brain through a nerve in the back of your eye (optic nerve).   Diabetes damages blood vessels all over the body. The damage to your eyes starts when the sugar in your blood causes changes to the tiny blood vessels that go to your retina. These changes make it harder for the blood to flow, leading to blocked blood vessels that leak fluid or bleed. To make up for these blocked blood vessels, your eyes then grow new blood vessels that don’t work well. These new blood vessels can leak or bleed easily."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "How will my eye doctor check for diabetic retinopathy? Eye doctors can check for diabetic retinopathy as part of a dilated eye exam. The exam is simple and painless — your doctor will give you some eye drops to dilate (widen) your pupil and then check your eyes for diabetic retinopathy and other eye problems. Learn what to expect from a dilated eye exam If you have diabetes, it’s very important to get regular eye exams. If you do develop diabetic retinopathy, early treatment can stop the damage and prevent blindness.   If your eye doctor thinks you may have severe diabetic retinopathy or DME, they may do a test called a fluorescein angiogram. This test lets the doctor see pictures of the blood vessels in your retina. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "What can I do to prevent diabetic retinopathy? Managing your diabetes is the best way to lower your risk of diabetic retinopathy. That means keeping your blood sugar levels in a healthy range. You can do this by getting regular physical activity, eating healthy, and carefully following your doctor’s instructions for your insulin or other diabetes medicines.  "
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "7 - - How is spinal stenosis diagnosed in the neck?": {
+    "sent_result": [
+      {
+        "query": "I started feeling a sharp pain in my neck and down my arms, and my hands started tingling. At times, I even noticed some weakness in my fingers. It was becoming difficult for me to stand or walk for long periods without feeling worse. However, I found that sitting or flexing my neck provided some relief from the discomfort. Recently, I also noticed some issues with my bladder function.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Who Gets Spinal Stenosis? Anyone can get spinal stenosis; however, the chances of developing the disorder increase with age. Spinal stenosis also can be present in younger people who are born with a narrow spinal canal or who have an injury to the spine."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Symptoms of Spinal Stenosis. Symptoms of spinal stenosis may develop when the spaces within the spine narrow, most often in the lower back and neck. The narrowing creates pressure on the spine and related structures, causing symptoms. For most people, symptoms develop and progress slowly over a period of time, and some people may not have any symptoms."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The symptoms you experience depend on the location of the narrowing in your spine. Symptoms of spinal stenosis in the lower back can include: Pain in the lower back. Burning pain or ache that radiates down the buttocks and into the legs, that typically worsens with standing or walking and gets better with leaning forward (flexion). Numbness, tingling, or cramping in the legs and feet. These may become more pronounced during standing or walking. Weakness in the legs and feet."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Symptoms of spinal stenosis in the neck may include: Neck pain. Numbness or tingling that radiates down the arms into the hands. Weakness in a hand, arm, or fingers. Walking, standing, or extending the lumbar area of the spine can cause symptoms to worsen. Sitting or flexing the lower back or neck may relieve symptoms. The flexed position “opens up” the spinal column, enlarging the spaces between vertebrae at the back of the spine. People with more severe stenosis also may have problems with: Bowel function. Bladder function. Sexual function."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Causes of Spinal Stenosis. Several factors can contribute to the narrowing of the spinal canal, leading to spinal stenosis.  Normally, the vertebral canal provides enough room for the spinal cord, cauda equina, and the exiting nerves. However, aging and age-related changes in the spine, injury, other diseases, or inherited conditions can cause narrowing of the spaces.  "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Aging and Age-Related Changes in the Spine. Aging and age-related changes in the spine happen over a period of time and slowly cause loss of the normal structure of the spine. They are the most common causes of spinal stenosis. As people age, the ligaments that keep the vertebrae of the spine in place may thicken and calcify (harden from deposits of calcium salts). Bones and joints may also enlarge. When surfaces of the bone begin to project out from the body, these projections are called osteophytes (bone spurs). For example: A herniated (bulging) disk may place pressure on the spinal cord or nerve root. Disks are cushion-like pads that lie between the vertebrae and act like shock absorbers and spacers for the spine. As the disk ages, it can dry out and crack, causing the disk to bulge. When a segment of the spine becomes too mobile, the capsules (membranes) of the facet joints at the back of the vertebrae thicken. This effort to try to stabilize the segment can cause bone spurs, which decrease the space around the nerve roots leaving the spinal cord. Spondylolisthesis happens when one vertebra slips forward on another vertebra. This creates poor alignment of the spinal column and can place pressure on the spinal cord or nerve roots."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Arthritis. Arthritis is also a common cause of spinal stenosis. Two forms of arthritis that may affect the spine are osteoarthritis and rheumatoid arthritis. Osteoarthritis is a degenerative joint disease in which the tissues in the joint break down over time. It is the most common type of arthritis and is more common in older people. Osteoarthritis can lead to disk degeneration and an enlargement or overgrowth of bone that narrows the central and nerve root canals, causing spinal stenosis. Rheumatoid Arthritis (RA) is a chronic (long-lasting) inflammatory disease that mostly affects joints. RA causes pain, swelling, stiffness, and loss of function in joints. It is an autoimmune disorder because the immune system attacks the healthy joint tissues.  Although not a common cause of spinal stenosis, damage from RA can cause significant problems with joints in the spine, leading to spinal stenosis."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "8 - - What are the common symptoms of pink eye?": {
+    "sent_result": [
+      {
+        "query": "I woke up with my eye feeling very painful and sensitive to light. It was incredibly red and there was a lot of mucus coming out of it. I tried wiping away the discharge, but my vision remained blurry. Even after a couple of days, the symptoms were not improving. Unsure of what to do, I reached out to a friend who suggested I see a doctor.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "If you’re around someone who has pink eye: Wash your hands often with soap and water. If you don’t have soap and water, you can use hand sanitizer with alcohol in it. Wash your hands after you touch the person with pink eye or something that person used — for example, if you help put eye drops in their eyes, or put their bed sheets in the washing machine. Always wash your hands before touching your eyes. Don’t share personal items that the person with pink eye has used — including pillows, towels, makeup, or glasses."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "If you have pink eye: Wash your hands often with soap and water. Be extra careful about washing them after you touch your eyes or use eye drops or medicine. If you don’t have soap and water, you can use hand sanitizer with alcohol in it. Avoid touching or rubbing your eyes. If you have discharge, wash the area around your eyes 2 or 3 times a day. Use a clean, wet washcloth or a fresh cotton ball each time. Be sure to wash your hands before and after washing your eyes. Don’t share personal items with other people — including pillows, towels, makeup, or glasses. Clean your glasses regularly. If you wear contact lenses, follow your eye doctor’s instructions for cleaning, storing, and replacing them."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "You can also take steps to prevent getting pink eye again: Throw away any makeup that you used while you had pink eye. This includes eye makeup, face makeup, and brushes or sponges. Throw away contact lens solution, contact lenses, and cases that you used while you had pink eye. Clean your glasses and cases."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "When do I need to see a doctor for pink eye? Most cases of pink eye get better on their own. Go to the doctor if: You have a lot of pain in your eye. Your eye is very red. You notice a lot of mucus coming from your eyes. Your vision is blurry or you’re sensitive to light — and it doesn’t get better when you wipe away discharge from your eye. Your symptoms don’t get better after a few days — or they get worse. You have a health condition that weakens your immune system, like cancer or HIV. You have symptoms of pink eye and you wear contacts, or you recently scratched your eye. The doctor will look at your eyes and ask you some questions to find out what caused your pink eye and decide on the best way to treat it."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "What’s the treatment for pink eye? Pink eye often gets better on its own after 7 to 10 days. But sometimes, you need treatment from a doctor."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "9 - What are the genetic risk factors for schizophrenia?": {
+    "sent_result": [
+      {
+        "query": "I was at a family gathering and overheard my aunt mentioning that my cousin had been diagnosed with schizophrenia. I didn't know much about this disorder but was curious about why it seemed to run in some families and not others. My aunt mentioned that there might be some genetic factors involved, but it didn't necessarily mean everyone in the family would develop it. I was left wondering how genetic risk factors could play a role in someone being more susceptible to developing schizophrenia.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Cognitive symptoms include problems in attention, concentration, and memory. These symptoms can make it hard to follow a conversation, learn new things, or remember appointments. A person’s level of cognitive functioning is one of the best predictors of their day-to-day functioning. Health care providers evaluate cognitive functioning using specific tests. Cognitive symptoms include: Having trouble processing information to make decisions. Having trouble using information immediately after learning it. Having trouble focusing or paying attention. The Centers for Disease Control and Prevention (CDC)  has recognized that having certain mental disorders, including depression and schizophrenia, can make people more likely to get severely ill from COVID-19. Learn more about getting help and finding a health care provider."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Risk of violence. Most people with schizophrenia are not violent. Overall, people with schizophrenia are more likely than those without the illness to be harmed by others. For people with schizophrenia, the risk of self-harm and of violence to others is greatest when the illness is untreated. It is important to help people who are showing symptoms to get treatment as quickly as possible."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Schizophrenia vs. dissociative identity disorder. Although some of the signs may seem similar on the surface, schizophrenia is not dissociative identity disorder (which used to be called multiple personality disorder or split personality). People with dissociative identity disorder have two or more distinct identities that are present and that alternately take control of them."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "What are the risk factors for schizophrenia? Several factors may contribute to a person’s risk of developing schizophrenia. Genetics: Schizophrenia sometimes runs in families. However, just because one family member has schizophrenia, it does not mean that other members of the family also will have it. Studies suggest that many different genes may increase a person’s chances of developing schizophrenia, but that no single gene causes the disorder by itself. Environment: Research suggests that a combination of genetic factors and aspects of a person’s environment and life experiences may play a role in the development of schizophrenia. These environmental factors that may include living in poverty, stressful or dangerous surroundings, and exposure to viruses or nutritional problems before birth. Brain structure and function: Research shows that people with schizophrenia may be more likely to have differences in the size of certain brain areas and in connections between brain areas. Some of these brain differences may develop before birth. Researchers are working to better understand how brain structure and function may relate to schizophrenia."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "How is schizophrenia treated? Current treatments for schizophrenia focus on helping people manage their symptoms, improve day-to-day functioning, and achieve personal life goals, such as completing education, pursuing a career, and having fulfilling relationships."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Antipsychotic medications. Antipsychotic medications can help make psychotic symptoms less intense and less frequent. These medications are usually taken every day in a pill or liquid forms. Some antipsychotic medications are given as injections once or twice a month. If a person’s symptoms do not improve with usual antipsychotic medications, they may be prescribed clozapine. People who take clozapine must have regular blood tests to check for a potentially dangerous side effect that occurs in 1-2% of patients. People respond to antipsychotic medications in different ways. It is important to report any side effects to a health care provider. Many people taking antipsychotic medications experience side effects such as weight gain, dry mouth, restlessness, and drowsiness when they start taking these medications. Some of these side effects may go away over time, while others may last. Shared decision making  between health care providers and patients is the recommended strategy for determining the best type of medication or medication combination and the right dose. To find the latest information about antipsychotic medications, talk to a health care provider and visit the U.S. Food and Drug Administration (FDA) website ."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Psychosocial treatments. Psychosocial treatments help people find solutions to everyday challenges and manage symptoms while attending school, working, and forming relationships. These treatments are often used together with antipsychotic medication. People who participate in regular psychosocial treatment are less likely to have symptoms reoccur or to be hospitalized. Examples of this kind of treatment include types of psychotherapy such as cognitive behavioral therapy, behavioral skills training, supported employment, and cognitive remediation interventions."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "10 - What are the different types of brain stimulation therapies available?": {
+    "sent_result": [
+      {
+        "query": "I woke up feeling out of sorts, lacking the usual motivation and joy that I typically have. Everything seemed overwhelming, and I couldn't shake off the feeling of sadness and hopelessness. I tried talking to friends and incorporating self-care practices, but nothing seemed to alleviate the persistent sense of despair. After consulting with a mental health professional, they recommended brain stimulation therapy as a potential treatment option for my unresponsive depression. Despite my initial hesitance due to lack of familiarity with such treatments, I opted to explore this avenue in the hopes of finding relief from my debilitating symptoms.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Brain Stimulation Therapies\n"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "What are brain stimulation therapies? Brain stimulation therapies can play an important role in treating mental disorders. These therapies work by activating or inhibiting the brain with electricity. The electricity can be given directly through electrodes implanted in the brain or indirectly through electrodes placed on the scalp. The electricity can also be induced by applying magnetic fields to the head."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "The page is divided into therapies that are authorized by the U.S. Food and Drug Administration (FDA) to treat specific mental disorders, including depression, bipolar disorder, and obsessive-compulsive disorder (OCD), versus therapies that are newer and still considered experimental. The authorized therapies covered on this page are: Electroconvulsive therapy. Repetitive transcranial magnetic stimulation. Vagus nerve stimulation. The experimental therapies covered on this page are: Magnetic seizure therapy. Deep brain stimulation. Other brain stimulation therapies not discussed here may also hold promise for treating mental disorders. Information about these therapies is updated frequently. See the FDA website  for the latest information, warnings, and guidance on brain stimulation devices and announcements about new ones."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "How do brain stimulation therapies work? In most cases, brain stimulation therapy is used only after other treatments have been tried. Although less frequently used than psychotherapy or medication, brain stimulation therapies hold promise for people with certain mental disorders who have not responded to other treatments. Brain stimulation therapies should be prescribed and monitored by a health care provider with specific training and expertise. A trained medical team performs the procedures. Most involve using anesthesia to sedate the patient and a muscle relaxant to prevent them from moving. If so, an anesthesiologist will monitor breathing, heart rate, and blood pressure throughout the procedure.A treatment plan involving brain stimulation therapy is based on a person's individual needs and medical situation. It usually also includes psychotherapy, medication, or both. Patients will likely be advised to continue these other treatments during and after therapy. Patients should not stop a treatment unless specifically advised by a health care provider. Brain stimulation therapies treat serious mental illnesses. They are often used when a person is experiencing dangerous circumstances, such as not responding to the outside world or is at risk of harming themselves."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "What is electroconvulsive therapy? Electroconvulsive therapy (ECT) is a noninvasive procedure that treats serious mental disorders by using an electric current to induce seizure activity in the brain. It has the longest history of use for depression and is one of the most widely used brain stimulation therapies."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "ECT: Why it’s done. The FDA has cleared ECT to treat severe depressive episodes  in people 13 years and older with depression or bipolar disorder. In some cases, ECT has also been used to treat schizophrenia, schizoaffective disorder, and mania. ECT is usually considered only if a person’s illness has not improved after trying other treatments like psychotherapy or medication. To be eligible for ECT, a person must meet one of two criteria. They have severe, treatment-resistant depression. They require a rapid response due to life-threatening circumstances. For instance, they are catatonic (unable to move or respond to the outside world), suicidal, or malnourished. ECT can be effective when medications have not worked, cannot be tolerated, or are undesirable due to physical illness, which is often the case in older adults. ECT also begins working more rapidly than antidepressant medications, usually taking effect within the first week of treatment."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "ECT: How it works. Before a doctor performs ECT, the patient is sedated with a short-acting general anesthetic and given an intravenous muscle relaxant to prevent movement. During the procedure: Electrodes are placed at precise locations on the patient’s head. An electric current is sent through the electrodes into the brain, causing seizure activity that lasts under a minute. Anesthesia ensures the patient does not experience pain or feel the electrical pulses. Often, a blood pressure cuff is used on an arm or leg to block the muscle relaxant and allow movement of that limb to confirm the seizure activity is adequate. The patient wakes up 5–10 minutes after the procedure ends. They may feel groggy at first as the anesthesia wears off, but after about an hour, they are usually alert and can resume normal activities. A typical course of ECT is administered three times a week until a patient's symptoms improve (usually within 6–12 treatments). Frequently, a patient who undergoes ECT also takes antidepressant or mood-stabilizing medication. Although ECT is effective in treating depressive episodes, follow-up treatment—either antidepressant medication or maintenance ECT —is usually required to sustain the clinical improvement and reduce the chances that symptoms return. Maintenance ECT varies depending on the patient’s needs and may range from one session per week to one session every few months."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "11 - - What is the \"mesh-like\" appearance seen in bones of individuals with Type V OI?": {
+    "sent_result": [
+      {
+        "query": "I remember when I had my bone fracture and went to get an x-ray done. The doctor showed me the results and explained that there was this strange \"mesh-like\" appearance in the bones. It was all so confusing to me because I had no prior knowledge of medical terms or conditions.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Type II. Causes death at birth or shortly after, because of the inability to breathe. Numerous broken bones that develop before birth while the baby is still in the womb. Severe bone deformities. Very small stature. Underdeveloped lungs. Blue, purple, or gray tint to sclera. Improperly formed collagen. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Type III. Most severe type among those who survive the neonatal period and usually results in the greatest number of physical disabilities. Easily broken bones with very little trauma over a lifetime. (Broken bones are often present at birth, and x-rays may reveal healed bone breaks that occurred before birth.) Moderate to severe bone deformity.Small stature. Blue, purple, or gray tint to sclera. Loose joints. Poor muscle development in arms and legs. Barrel-shaped rib cage. Triangular face. Curved spine and compression or collapse of vertebrae.  Possible lung problems that worsen with age. Often severe bone deformity. Possible changes to the strength and color of teeth with tooth fracture. Possible malocclusion of the teeth, meaning they are not aligned properly. Possible changes to the strength and color of teeth. Possible hearing loss. Improperly formed collagen. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Type IV. Bones break easily, sometimes before birth, with most broken bones occurring before puberty. Smaller than average stature. White or blue tint to sclera. Mild bone deformity. Vertebra compression or collapse. Barrel-shaped rib cage. Triangular face. Possible changes to strength and color of teeth. Possible hearing loss. Improperly formed collagen."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Type V. Clinically similar to Type IV OI in appearance and symptoms. A dense band seen on x-rays by the cartilage growth plate of the long bones. Unusually large calluses, called hypertrophic calluses, at the sites of fractures or surgical procedures. (A callus is an area of new bone that is laid down at the fracture site as part of the healing process.). Calcification of the membrane between the radius and ulna (the bones of the forearm), which results in restricted arm movement. Possible loose joints. White sclera. No changes to teeth. “Mesh-like” appearance to bone when viewed under the microscope. Changes in the mineralization of bone. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Type VI. Resembles Type IV OI in appearance and symptoms. Not always diagnosed at birth, and symptoms progress over time. “Fish-scale” appearance to bone when viewed under the microscope. Curved spine. Diagnosed by bone biopsy or genetic studies. Changes in the mineralization of bone. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Type VII. Resembles Type II and Type III OI in appearance and symptoms. White sclera. Small stature. Short humerus (upper arm bone) and short femur (upper leg bone). Possible smaller head size. Changes in the process of forming collagen. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Type VIII. Resembles Type II and Type III OI in appearance and symptoms.White sclera. Small stature. Short humerus (upper arm bone) and short femur (upper leg bone). Possible smaller head size. Changes in the process of forming collagen. There are rarer types of the disease, and in general they are moderately severe forms. These types are similar to OI types III or IV. Some of these rare forms do not affect the structure of collagen but instead affect the function of bone-forming cells."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "12 - - How small can pediatric cataracts be before affecting a child's vision?": {
+    "sent_result": [
+      {
+        "query": "I recently noticed a small white spot in my child's eye when they were squinting while playing outside. I wasn't sure what it was, so I took them to the eye doctor for a check-up. The doctor explained that it was a tiny pediatric cataract but assured me that at that size, it wouldn't affect my child's vision. They recommended regular follow-ups to monitor the cataract's progression.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Age-related cataracts. As you get older, a cataract can develop because of natural changes in the lens of your eye. This is the most common type of cataract. You may be more likely to develop age-related cataracts if you: Smoke . Drink too much alcohol . Have a family history of cataracts . Have diabetes . Have had certain eye surgeries, like glaucoma surgery . Take steroids — medicines used to treat some health problems, like arthritis or allergies"
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Traumatic cataracts. Serious eye injuries can damage your lens and cause a cataract. The cataract could form soon after the injury — or it could form many years later."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Radiation cataracts. Some types of radiation can cause cataracts. This includes ultraviolet (UV) rays from the sun and radiation treatment for cancer."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Pediatric cataracts. Children can get cataracts, too. They can be born with cataracts (congenital cataracts) or develop them later on. Cataracts in children are rare, and they’re usually genetic — meaning they run in families. They can also happen because of serious problems during pregnancy or because of illnesses during childhood, like uveitis or tumors in the eye. Children can also get cataracts for the same reasons as adults — like eye injuries, radiation, or steroids. When pediatric cataracts are large enough to cause vision problems, they need treatment right away. It’s important to treat these cataracts early on so your child doesn’t develop other vision problems, like amblyopia (lazy eye).  Some pediatric cataracts are so small that they won’t affect your child’s vision. Your child’s eye doctor can watch these smaller cataracts over time to make sure they don’t cause vision problems."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Secondary cataracts. After cataract surgery, it’s possible to develop scar tissue in the eye — which can make your vision cloudy again. This is called a secondary cataract. Other names for it are after-cataract or posterior capsule opacification. Secondary cataracts are common. In fact, up to 2 out of 5 people who have cataract surgery will develop a secondary cataract. Treatment for secondary cataracts is quick and painless. Your eye doctor will use a laser to make an opening in the cloudy part of the lens — this is called YAG laser capsulotomy. Most people will notice their vision is back to normal in a few days."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "What are the symptoms of cataracts? You might not have any symptoms at first, when cataracts are mild. But as they grow, cataracts can cause changes in your vision. For example, you may notice that: Your vision is cloudy or blurry. Colors look faded. You can’t see well at night. Lamps, sunlight, or headlights seem too bright. You see a halo around lights. You see double (this sometimes goes away as the cataract gets bigger). You have to change the prescription for your glasses or contact lenses often. Talk with your eye doctor if you have any of these symptoms — they could also be signs of other eye problems."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Am I at risk for cataracts? Your risk for cataracts goes up as you get older. You’re also at higher risk if you: Have certain health problems, like diabetes. Smoke. Drink too much alcohol. Have a family history of cataracts. Have had an eye injury, eye surgery, or radiation treatment on your upper body. Have spent a lot of time in the sun. Take steroids — medicines used to treat some health problems, like arthritis or allergies. If you’re worried you might be at risk for cataracts, talk with your doctor. Ask if there’s anything you can do to lower your risk."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "13 - - How can I manage stress to help with my blepharospasm symptoms?": {
+    "sent_result": [
+      {
+        "query": "As a student dealing with the stress of upcoming exams, I noticed my eyelids have been twitching a lot lately. It's been really distracting and concerning. A friend suggested that it could be due to stress, but I have no idea how to manage it.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "What causes blepharospasm? Blepharospasm happens when the part of the brain that controls your eyelid muscles stops working correctly. Sometimes blepharospasm runs in families, and women ages 40 to 60 are more likely to develop it. But in most cases, doctors aren’t sure what causes it."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "How will my eye doctor check for blepharospasm? Your eye doctor can check for blepharospasm as part of a comprehensive eye exam. They’ll also ask you about your medical history and family medical history."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "What’s the treatment for blepharospasm? There’s no cure for blepharospasm, but there are treatments that can help with your symptoms. Injections. Your eye doctor can inject a medicine called Botox into your eyelid muscles to make them stop twitching. Most people need to get injections every 3 to 4 months.  Surgery. If injections don’t work for you, your doctor may recommend a surgery called myectomy. In a myectomy, a surgeon will remove some of the muscle or nerve tissue from your eyelids to help stop the twitching."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Lifestyle changes like managing your stress, getting enough sleep, and cutting down on food or drinks with caffeine (like coffee, tea, or soda) may also help.  If another condition is causing your eyelids to twitch, treating that condition may stop the twitching. For example, if you have dry eye, your doctor may recommend eye drops or medicine to help your eyes make more tears. "
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "14 - - What can be expected in terms of dental changes and possible tooth fracture in Type I OI patients?": {
+    "sent_result": [
+      {
+        "query": "I remember when I was at a family gathering, my young cousin accidentally hit his tooth with a toy and it chipped. He started complaining of tooth pain, and it was worrying to see his discomfort. The tooth looked different in color and seemed weaker than before. I wondered if it could be due to the trauma he experienced, and how it might need special attention from a dentist.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "What Happens in OI? For most people, a change or defect in the genes that carry the instructions for making type I collagen causes OI.  Type I collagen is a material in bones that helps make them strong. The defect in the genes causes the body to make collagen incorrectly or not make enough, leading to weak bones that break more easily. There is no way to prevent the disease. Type I collagen is also in other connective tissues such as tendon, ligament, lung, and skin, and these tissues can sometimes be affected."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Who Gets Osteogenesis Imperfecta? Though anyone can be born with OI, people with a family history of the disease are at greater risk of inheriting the disease through an abnormal gene that is passed on from one or both parents. Genetic counselors can help you better understand the genetics of OI."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Types of Osteogenesis Imperfecta. There are several types of OI, and different classifications are used based on the severity of the disease or on the nature of the underlying gene defect. Type I is the mildest and most common form of OI. Type II is the most severe form of OI. Other types of OI have symptoms that fall between Type I and Type II. Following is an overview of the types most often diagnosed. The remaining types are rare and still being studied."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Type I. Bones likely to break from mild to moderate trauma, with most broken bones occurring before puberty. No change or only slight changes to stature with aging. Loose joints and muscle weakness. Blue, purple, or gray tint to sclera (whites of the eyes). Triangular face. Curved spine with potential for compression of the vertebrae (spine bones) with aging. Mild or no bone deformity. Possible changes to the strength and color of teeth. Possible hearing loss. Normal collagen structure, but less than the normal amount is produced. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Type II. Causes death at birth or shortly after, because of the inability to breathe. Numerous broken bones that develop before birth while the baby is still in the womb. Severe bone deformities. Very small stature. Underdeveloped lungs. Blue, purple, or gray tint to sclera. Improperly formed collagen. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Type III. Most severe type among those who survive the neonatal period and usually results in the greatest number of physical disabilities. Easily broken bones with very little trauma over a lifetime. (Broken bones are often present at birth, and x-rays may reveal healed bone breaks that occurred before birth.) Moderate to severe bone deformity.Small stature. Blue, purple, or gray tint to sclera. Loose joints. Poor muscle development in arms and legs. Barrel-shaped rib cage. Triangular face. Curved spine and compression or collapse of vertebrae.  Possible lung problems that worsen with age. Often severe bone deformity. Possible changes to the strength and color of teeth with tooth fracture. Possible malocclusion of the teeth, meaning they are not aligned properly. Possible changes to the strength and color of teeth. Possible hearing loss. Improperly formed collagen. "
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Type IV. Bones break easily, sometimes before birth, with most broken bones occurring before puberty. Smaller than average stature. White or blue tint to sclera. Mild bone deformity. Vertebra compression or collapse. Barrel-shaped rib cage. Triangular face. Possible changes to strength and color of teeth. Possible hearing loss. Improperly formed collagen."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  },
+  "15 - - Can FMF be passed down from parents to children?": {
+    "sent_result": [
+      {
+        "query": " I recently found out that my friend's parents both have some sort of autoimmune disease. They have been concerned about their own health and also about the possibility of passing it down to their future children. I wonder if diseases like FMF can be inherited and what the implications might be for their family if they decide to have kids.",
+        "candidate_scope": [
+          {
+            "score": 0,
+            "candidate_scope": "Overview of Autoinflammatory Diseases. Your immune system is the network of cells and tissues throughout your body that work together to defend you from viruses, bacteria, and infection. It tries to identify, kill, and eliminate the invaders that might hurt you."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Parts of the immune system include: Acquired (or adaptive) immune system, which develops as you grow. Invaders provoke your body into producing antibodies so that your body “remembers” those invaders. Your body can then fight them if they come back. Innate (or inborn) immune system, which uses white blood cells instead of antibodies to destroy invaders."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "What happens in autoinflammatory diseases? Autoinflammatory diseases refer to problems with the innate immune system’s reactions. Immune cells target the body’s own healthy tissues by mistake, signaling the body to attack them. This can cause intense episodes of inflammation that result in such symptoms as fever, rash, or joint swelling. These diseases also carry the risk of amyloidosis, a potentially fatal buildup of a blood protein in vital organs."
+          },
+          {
+            "score": 1,
+            "candidate_scope": "Types of Autoinflammatory Diseases. Some examples of autoinflammatory disease and their symptoms include: Familial Mediterranean Fever (FMF), which causes recurring bouts of fever. Other symptoms include: Severe abdominal pain due to inflammation of the stomach cavity (peritonitis). Arthritis (painful, swollen joints). Chest pain from inflammation of the lung cavity (pleurisy). Skin rashes."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Neonatal Onset Multisystem Inflammatory Disease (NOMID) affects the skin, joints, eyes, and central nervous system. For most children, the first sign of the disease is a rash that develops within the first six weeks of life. Other problems can follow, including: Fever. Meningitis. Joint damage.Vision loss. Hearing loss. Mental retardation."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Tumor Necrosis Factor Receptor-Associated Periodic Syndrome (TRAPS) is associated with: Long, dramatic, episodes of high fever. Severe pain in the abdomen, chest, or joints. Skin rash. Inflammation in or around the eyes."
+          },
+          {
+            "score": 0,
+            "candidate_scope": "Deficiency of the Interleukin-1 Receptor Antagonist (DIRA) can cause the following serious conditions in children: Swelling of bone tissue. Bone pain and deformity. Inflammation of the layer of connective tissue around bone. Skin rash that can cover most of the body."
+          }
+        ]
+      }
+    ],
+    "meta_info_ground_scope": [
+      3
+    ]
+  }
+}
